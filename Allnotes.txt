@@ -1,0 +1,27 @@
+create a react app-------
+create-react-app appname
+
+as like bootstrap semantic-ui is a ui library
+semantic-ui-cdns.com->copy ->
+https//cdns.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css
+past in index.html
+
+
+*Geolocation APi site use for user current possition
+https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API
+
+section 6
+lifecycle - A componenet Lyfecycle  method  is a function ,that we optinally define in our class component .
+if we decides to use these method they will autometically called at  a sudden points during a  life cycles.
+
+component did mount -1st rerender in our screen .one time loading ,as like constructor
+componentdid Update - for updated the state
+
+constructor-autometically call with instances 
+
+
+**refectoring -as alternate process of  state initialization ,before we use constructor,its allternative of constructor state initialization 
+
+
+if icon noe work use sementic this site--
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css" />
